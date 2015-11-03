@@ -1,6 +1,6 @@
 package collector
 
-import . "github.com/despegar/khronus-go-client"
+import . "github.com/Searchlight/khronus-go-client"
 
 type Collector interface {
 	Run(c chan *Metric)

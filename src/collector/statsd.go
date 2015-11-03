@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	. "github.com/despegar/khronus-go-client"
+	. "github.com/Searchlight/khronus-go-client"
 	"github.com/mitchellh/mapstructure"
 )
 

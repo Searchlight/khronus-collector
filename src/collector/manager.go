@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/signal"
 
-	. "github.com/despegar/khronus-go-client"
+	. "github.com/Searchlight/khronus-go-client"
 )
 
 type Manager struct {
