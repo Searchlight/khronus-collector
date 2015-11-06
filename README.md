@@ -3,7 +3,7 @@ khronus-collector
 
 ## Install
 ```bash
-git clone https://github.com/adebarbara/khronus-collector.git
+git clone https://github.com/Searchlight/khronus-collector.git
 egrep -rho '(github.*)[^\"]' * | sort -u | xargs -P1 -L1 go get -u
 go build -o bin/khronus-collector src/khronus-collector.go
 ```
